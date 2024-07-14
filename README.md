@@ -4,7 +4,7 @@ I am a medical student at Chulalongkorn University interested in Machine Learnin
 ## Languages
 <b>Data Science and Artificial Intelligence</b>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <!-- <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
 
 <b>Web Development</b>
 
@@ -19,12 +19,10 @@ I am a medical student at Chulalongkorn University interested in Machine Learnin
 
 <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
 
-## Statistics
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rojpa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rojpa#gh-dark-mode-only)
-[![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rojpa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rojpa#gh-light-mode-only)
-
 # Badges
-## Artificial Intelligence
-<a href='https://www.credly.com/badges/957c8daf-344b-474e-a879-298f27c89bb7/public_url'><img src='https://images.credly.com/size/180x180/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png'></img></a>
-<a href='https://www.credly.com/badges/5235728a-b36f-4dee-b500-b9791bafdf56/public_url'><img src='https://images.credly.com/size/180x180/images/70675aed-31be-4c30-add7-b99905a34005/image.png'></img></a>
-<a href='https://www.credly.com/badges/2a6297bb-e05a-4791-beac-cd8143e5e3e3/public_url'><img src='https://images.credly.com/size/180x180/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png'></img></a>
+## Data Analytics and Data Science
+<a href='https://www.credly.com/badges/e9425f1a-06ea-4e46-9445-987130f28354/public_url'> <img src='https://images.credly.com/size/120x120/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png'></img></a>
+## Artificial Intelligence and Machine Learning
+<a href='https://www.credly.com/badges/957c8daf-344b-474e-a879-298f27c89bb7/public_url'><img src='https://images.credly.com/size/120x120/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png'></img></a>
+<a href='https://www.credly.com/badges/5235728a-b36f-4dee-b500-b9791bafdf56/public_url'><img src='https://images.credly.com/size/120x120/images/70675aed-31be-4c30-add7-b99905a34005/image.png'></img></a>
+<a href='https://www.credly.com/badges/2a6297bb-e05a-4791-beac-cd8143e5e3e3/public_url'><img src='https://images.credly.com/size/120x120/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png'></img></a>
