@@ -18,6 +18,8 @@ I am a medical student at Chulalongkorn University interested in Machine Learnin
 # Badges
 ## Data Analytics and Data Science
 
+<a href='https://www.credly.com/badges/cff397a9-868a-414f-a79e-cd57d701e029/public_url'> <img src='https://images.credly.com/size/120x120/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png'></img></a>
+<a href='https://www.credly.com/badges/4132f0fe-0114-4cc3-b4b9-420f3b9cd375/public_url'> <img src='https://images.credly.com/size/120x120/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png'></img></a>
 <a href='https://www.credly.com/badges/254a542d-4f8c-42ad-b622-10c3e7624f6b/public_url'> <img src='https://images.credly.com/size/120x120/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png'></img></a>
 <a href='https://www.credly.com/badges/e9425f1a-06ea-4e46-9445-987130f28354/public_url'> <img src='https://images.credly.com/size/120x120/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png'></img></a>
 ## Artificial Intelligence and Machine Learning
